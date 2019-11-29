@@ -1,2 +1,0 @@
-# CrossPlatformCProject
-CrossPlatformCProject - C example
