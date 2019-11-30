@@ -1,0 +1,81 @@
+helloWorld.lo: helloWorld.c helloWorld.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/stdio.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/sys/cdefs.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/android/versioning.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/android/api-level.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/sys/types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/stddef.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/__stddef_max_align_t.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/stdint.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/stdint.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/wchar_limits.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/aarch64-linux-android/asm/types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/int-ll64.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/bitsperlong.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/posix_types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/stddef.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/compiler_types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/compiler.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/posix_types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/pthread_types.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/stdarg.h \
+  /Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/seek_constants.h
+
+helloWorld.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/stdio.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/android/versioning.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/android/api-level.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/sys/types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/stddef.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/__stddef_max_align_t.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/stdint.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/stdint.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/wchar_limits.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/aarch64-linux-android/asm/types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/int-ll64.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/posix_types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/stddef.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/compiler_types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/linux/compiler.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/aarch64-linux-android/asm/posix_types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/asm-generic/posix_types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/pthread_types.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/lib64/clang/8.0.7/include/stdarg.h:
+
+/Users/oketo/CLionProjects/tmp/my-toolchain/bin/../sysroot/usr/include/bits/seek_constants.h:
